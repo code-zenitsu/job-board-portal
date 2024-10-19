@@ -1,4 +1,5 @@
 # Job Posting Board with Email Automation
+\nGitHub Repository: https://github.com/robocoder-repo/job-board-portal
 
 This project is a full-stack job posting board where companies can register, verify their accounts via email, post jobs, and send automated emails to candidates.
 
